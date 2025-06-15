@@ -1,57 +1,3 @@
-# AquaTerra
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AquaTerra Project</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Inter', sans-serif;
-      background-color: #f0f9f7;
-      color: #1a202c;
-      line-height: 1.6;
-    }
-    header {
-      background-color: #2c7a7b;
-      color: white;
-      padding: 2rem 1rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    main {
-      padding: 2rem 1rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    h2 {
-      color: #2c7a7b;
-      margin-bottom: 0.5rem;
-    }
-    footer {
-      background-color: #e6fffa;
-      padding: 1rem;
-      text-align: center;
-      font-size: 0.9rem;
-    }
-    .btn {
-      display: inline-block;
-      background-color: #2c7a7b;
-      color: white;
-      padding: 0.5rem 1rem;
-      border-radius: 5px;
-      text-decoration: none;
-      margin-top: 1rem;
-    }
-  </style>
 </head>
 <body>
   <header>
@@ -82,3 +28,4 @@
   </footer>
 </body>
 </html>
+
